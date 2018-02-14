@@ -1,2 +1,1 @@
-# mapped
-Script for filtering read mapping in sam format based on mismatches between reads and references. 
+This repo. has been moved to: https://github.com/christophertbrown/bioscripts. 
